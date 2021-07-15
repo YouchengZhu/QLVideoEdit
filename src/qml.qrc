@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Actions.qml</file>
+        <file>Clips.qml</file>
+        <file>ClipsPopUp.qml</file>
+        <file>Dialogs.qml</file>
+        <file>Display.qml</file>
+        <file>Header.qml</file>
+        <file>Resources.qml</file>
+    </qresource>
+</RCC>
